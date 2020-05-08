@@ -9,3 +9,12 @@ This is my First website. I will show you all the things I have:
 
 
 ### Agile
+
+Agile is a method to get the maximum productivity of your team for a product.
+Agile also has 12 principles:
+
+1 - 
+
+
+
+
